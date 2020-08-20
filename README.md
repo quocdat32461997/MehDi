@@ -2,7 +2,9 @@
 Attempts to Autism Spectrum Disorder
 
 ### Datasets (Corpus)
+#### Tabular Data
 - [Autism Screening Adult Data Set donated by Dr. Fadi Fayez Thabtah](http://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult#)
+#### Text Corpus
 - [Weebit Data](https://pdfs.semanticscholar.org/70e6/a2f7f2bd6753d84d5b701fa9a207e752c3f3.pdf)
 - [FIRST Corpus](https://www.aclweb.org/anthology/W17-5013.pdf)
 
