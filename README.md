@@ -12,10 +12,10 @@ MehDi - a Natural-Language-Processing-based screening tool for major depression,
 * [SchizophreniaClassification](https://github.com/kabirahuja2431/SchizophreniaClassification)
 
 ### Text Corpus
-* [Depression Anxiety Stress Scales Response](https://www.kaggle.com/lucasgreenwell/depression-anxiety-stress-scales-responses?select=codebook.txt) - Available on Kaggle - Depression Stress Scale - Quality
-* [Raw Twitter Datasets Based on Depressive Words](https://www.kaggle.com/sawrav/raw-twitter-datasets-based-on-depressive-words) - Available on Kaggle - Depression
-* [Depression-Sentiment-Analysis-with-Twitter-Data](https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data) - Available on Github - Depression
-* [Reddit Self-reported Depression Diagnosis (RSDD) dataset](https://georgetown-ir-lab.github.io/emnlp17-depression/) - Available upon request - Depression - Quality but self-reported
+* ==> [Depression Anxiety Stress Scales Response](https://www.kaggle.com/lucasgreenwell/depression-anxiety-stress-scales-responses?select=codebook.txt) - Available on Kaggle - Depression Stress Scale - Quality
+* ==> [Raw Twitter Datasets Based on Depressive Words](https://www.kaggle.com/sawrav/raw-twitter-datasets-based-on-depressive-words) - Available on Kaggle - Depression
+* ==> [Depression-Sentiment-Analysis-with-Twitter-Data](https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data) - Available on Github - Depression
+* ==> [Reddit Self-reported Depression Diagnosis (RSDD) dataset](https://georgetown-ir-lab.github.io/emnlp17-depression/) - Available upon request - Depression - Quality but self-reported
 * [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140) - Available on Kaggle - Not a good quality data
 * [Identifying Depression on Social Media](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/custom/15712307.pdf) - must be web scrapped
 
@@ -34,6 +34,6 @@ MehDi - a Natural-Language-Processing-based screening tool for major depression,
 
 ### Health Records
 
-* [A Dataset of Students' Mental Health and Help-Seeking Behaviors in a Multicutural Environment](https://www.mdpi.com/2306-5729/4/3/124/htm) - Public available - Depression - Quality
+* ==> [A Dataset of Students' Mental Health and Help-Seeking Behaviors in a Multicutural Environment](https://www.mdpi.com/2306-5729/4/3/124/htm) - Public available - Depression - Quality
 
 * [Banquesignature](https://www.banquesignature.ca/en/les-donnees-2/psychosociales-et-medicales/) - Available upon request - Depression
