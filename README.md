@@ -1,12 +1,6 @@
-# AutismDiagnoser
-Attempts to Autism Spectrum Disorder
+# MehDi
+MehDi - a Natural-Language-Processing-based screening tool for major depression, schizophrenia focusing on adults as well as adolescents. Focus of the study is on early signs of depression or schizophrenia. Datasets consists of speech, text, health records, and free texts that are publicly available. MehDi is an attempt to improve NLP architecture. The study will provide an enhancement to neuroimaging study.
 
-### Datasets (Corpus)
-#### Tabular Data
-- [Autism Screening Adult Data Set donated by Dr. Fadi Fayez Thabtah](http://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult#)
-#### Text Corpus
-- [Weebit Data](https://pdfs.semanticscholar.org/70e6/a2f7f2bd6753d84d5b701fa9a207e752c3f3.pdf)
-- [FIRST Corpus](https://www.aclweb.org/anthology/W17-5013.pdf)
+# Datasets
 
-### Recent works:
-- [Optimized Machine Learning Classification Approaches for Prediction of Autism Spectrum Disorder](http://www.remedypublications.com/open-access/divoptimized-machine-learning-classification-approaches-for-prediction-of-autism-5957.pdf)
+# Resources
