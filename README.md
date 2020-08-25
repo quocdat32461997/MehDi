@@ -33,7 +33,7 @@ MehDi - a Natural-Language-Processing-based screening tool for major depression,
 * [TUC-SchizophreniaClassification](https://github.com/Krith-man/TUC-SchizophreniaClassification)
 
 ### Health Records
-**
+
 * [A Dataset of Students' Mental Health and Help-Seeking Behaviors in a Multicutural Environment](https://www.mdpi.com/2306-5729/4/3/124/htm) - Public available - Depression - Quality
 
 * [Banquesignature](https://www.banquesignature.ca/en/les-donnees-2/psychosociales-et-medicales/) - Available upon request - Depression
