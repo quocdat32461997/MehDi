@@ -12,6 +12,8 @@ MehDi - a Natural-Language-Processing-based screening tool for major depression,
 * [SchizophreniaClassification](https://github.com/kabirahuja2431/SchizophreniaClassification)
 
 ### Text Corpus
+* [Depression Anxiety Stress Scales Response](https://www.kaggle.com/lucasgreenwell/depression-anxiety-stress-scales-responses?select=codebook.txt) - Available on Kaggle - Depression Stress Scale
+* [Raw Twitter Datasets Based on Depressive Words](https://www.kaggle.com/sawrav/raw-twitter-datasets-based-on-depressive-words) - Available on Kaggle - Depression
 * [Depression-Sentiment-Analysis-with-Twitter-Data](https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data) - Available on Github - Depression
 * [Reddit Self-reported Depression Diagnosis (RSDD) dataset](https://georgetown-ir-lab.github.io/emnlp17-depression/) - Available upon request - Depression
 * [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/kazanova/sentiment140) - Available on Kaggle - Not a good quality data
